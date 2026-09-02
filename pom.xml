@@ -109,7 +109,21 @@
   <version>1.5.0</version>
   <scope>test</scope>
 </dependency>
+			
+<dependency>
+	<groupId>com.mulesoft.anypoint</groupId>
+	<artifactId>runtime-discovery-api</artifactId>
+	<version>4.0.1</version>
+	<type>jar</type>
+</dependency>
 
+<dependency>
+	<groupId>com.mysql</groupId>
+	<artifactId>mysql-connector-j</artifactId>
+	<version>8.1.0</version>
+	<scope>compile</scope>
+	</dependency>
+			
 <dependency>
   <groupId>fc983659-35e3-47bf-8b47-f90cdf5bf8ea</groupId>
   <artifactId>intel-json-logger</artifactId>
