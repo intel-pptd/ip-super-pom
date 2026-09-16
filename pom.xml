@@ -636,6 +636,12 @@
 					<version>3.10.1</version>
 				</plugin>
 				<plugin>
+					<groupId>com.mulesoft.munit.tools</groupId>
+					<artifactId>munit-maven-plugin</artifactId>
+					<version>3.7.4</version>
+					<extensions>true</extensions>
+				</plugin>
+				<plugin>
 					<groupId>org.mule.tools.maven</groupId>
 					<artifactId>mule-maven-plugin</artifactId>
 					<version>${mule.maven.plugin.version}</version>
